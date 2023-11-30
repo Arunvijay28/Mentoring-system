@@ -1,0 +1,22 @@
+S.No,Digital ID,Register Number,Student Name,Section,Department,SSN Mail / SSN Digital Id,Gender
+1,2110172,3122 21 5002 001,Aakarsh M,S07,IT,aakarsh2110172@ssn.edu.in,Male
+2,2110696,3122 21 5002 002,Aasish M,S10,IT,aasish2110696@ssn.edu.in,Male
+3,2110499,3122 21 5002 003,Abarna B,S08,IT,abarna2110499@ssn.edu.in,Female
+4,2110238,3122 21 5002 004,V Adharsh Gurudev,S10,IT,adharsh2110238@ssn.edu.in,Male
+5,2110159,3122 21 5002 005,Aditi Rajesh,S02,IT,aditi2110159@ssn.edu.in,Female
+6,2110102,3122 21 5002 006,Ahamed Jumail M,S06,IT,ahamedjumail2110102@ssn.edu.in,Male
+7,2110180,3122 21 5002 007,Aishwarya R,S02,IT,aishwarya2110180@ssn.edu.in,Female
+8,2110386,3122 21 5002 008,R Aishwarya,S03,IT,aishwarya2110386@ssn.edu.in,Female
+9,2110133,3122 21 5002 009,Akashraj Giriraj,S01,IT,akashraj2110133@ssn.edu.in,Male
+10,2110903,3122 21 5002 010,Amitoj Singh,S13,IT,amitoj2110903@ssn.edu.in,Male
+11,2110538,3122 21 5002 011,G Annu,S08,IT,annu2110538@ssn.edu.in,Female
+12,2110445,3122 21 5002 012,A Apoorva,S13,IT,apoorva2110445@ssn.edu.in,Female
+13,2111023,3122 21 5002 013,Arjun B,S02,IT,arjun2111023@ssn.edu.in,Male
+14,2110684,3122 21 5002 014,B Arthaparvaes,S05,IT,arshat2110684@ssn.edu.in,Male
+15,2110371,3122 21 5002 015,R J Arunasree,S08,IT,arunasree2110371@ssn.edu.in,Female
+16,2110763,3122 21 5002 016,Arunkumar A,S05,IT,arun2110763@ssn.edu.in,Male
+17,2110586,3122 21 5002 017,M Ashwin,S04,it,ashwin2110586@ssn.edu.in,Male
+18,2110487,3122215002018,Badri,S05,IT,badri2110487@ssn.edu.in,Male
+19,2110597,3122 21 5002 019,Balakumar G,S04,-,balakumar2110597@ssn.edu.in,Male
+20,2111016,3122 21 5002 020,Bharath Kumar G,S03,IT,bharath2111016@ssn.edu.in,Male
+21,2110702,3122 21 5002 021,Bhuvaneswarran T,S05,IT,bhuvaneswarran2110702@ssn.edu.in,Male

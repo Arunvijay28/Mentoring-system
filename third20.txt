@@ -1,0 +1,23 @@
+S.No,Digital ID,Register Number,Student Name,Section,Department,SSN Mail / SSN Digital Id,Gender
+42,2110022,3122 21 5002 042,Jovitha Sahayaraj,S06,IT,jovitha2110022@ssn.edu.in,Female
+43,2110360,3122 21 5002 043,S J Kaaviya Sri,S07,IT,kaaviya2110360@ssn.edu.in,Female
+44,2110808,3122 21 5002 044,Kanitha S A,S12,IT,kanitha2110808@ssn.edu.in,Female
+45,2110566,3122 21 5002 045,Karthick V,S04,IT,karthick2110566@ssn.edu.in,Male
+46,2110596,3122 21 5002 046,Karunagaran R,S09,IT,karuna2110596@ssn.edu.in,Male
+47,2110490,3122 21 5002 047,Kaushik A,S03,IT,kaushik2110490@ssn.edu.in,Male
+48,2110364,3122 21 5002 048,Kaveripakam Venkatesh Hema Sri,S12,IT,hema2110364@ssn.edu.in,Female
+49,2110701,3122 21 5002 049,Kavin V,S12,IT,velusamy2110701@ssn.edu.in,Male
+50,2110735,3122 21 5002 050,Kaviyapriya K,S11,IT,kaviyapriya2110735@ssn.edu.in,Female
+51,2110500,3122 21 5002 051,Kayathri R,S03,IT,kayathri2110500@ssn.edu.in,Female
+52,2110294,3122 21 5002 052,Konidala Manasi,S03,IT,manasi2110294@ssn.edu.in,Female
+53,2110483,3122 21 5002 053,Lokesh Adithya B,S03,IT,lokesh2110483@ssn.edu.in,Male
+54,2110369,3122 21 5002 054,G Madhav,S13,IT,madhav2110369@ssn.edu.in,Male
+55,2110549,3122 21 5002 055,Madhumitha Chandrasekaran,S04,IT,madhumitha2110549@ssn.edu.in,Female
+56,2110216,3122 21 5002 056,Mannemela Sai Srithaja,S09,IT,mannemela2110216@ssn.edu.in,Female
+57,2110564,3122 21 5002 057,Mathan U S,S08,IT,mathan2110564@ssn.edu.in,Male
+58,2110092,3122 21 5002 058,R Mathangi,S01,IT,mathangi2110092@ssn.edu.in,Female
+59,2110355,3122 21 5002 059,Merudhula S,S03,IT,merudhula2110355@ssn.edu.in,Female
+60,2110143,3122 21 5002 060,B Mitul Krishna,S01,IT,mitulkrishna2110143@ssn.edu.in,Male
+61,2110621,3122 21 5002 061,Mohankumar S,S09,IT,mohankumar2110621@ssn.edu.in,Male
+62,2110651,3122 21 5002 062,Mounika S K,S10,IT,mounika2110651@ssn.edu.in,Female
+63,2110501,3122 21 5002 063,Muthulakshmi T,S08,IT,muthulakshmi2110501@ssn.edu.in,Female

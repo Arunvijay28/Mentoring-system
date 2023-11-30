@@ -1,0 +1,22 @@
+S.No,Digital ID,Register Number,Student Name,Section,Department,SSN Mail / SSN Digital Id,Gender
+22,2110002,3122 21 5002 022,Darrien Xavier P V,S01,IT,darrien2110002@ssn.edu.in,Male
+23,2110160,3122 21 5002 023,Deepesh Sudhan A,S02,IT,deepesh2110160@ssn.edu.in,Male
+24,2110635,3122 21 5002 024,Dennis Andrew B,S04,IT,dennis2110635@ssn.edu.in,Male
+25,2110760,3122 21 5002 025,Dhanushpriyan P,S11,IT,dhanushpriyan2110760@ssn.edu.in,Male
+26,2110227,3122 21 5002 026,Eraiyanbu P,S02,IT,eraiyanbu2110227@ssn.edu.in,Male
+27,2110729,3122 21 5002 027,Farha Afreen I,S05,IT,farha2110729@ssn.edu.in,Female
+28,2110078,3122 21 5002 028,S Felicia,S01,IT,felicia2110078@ssn.edu.in,Female
+29,2110822,3122 21 5002 029,Gowsika Perumal,S05,IT,gowsika2110822@ssn.edu.in,Female
+30,2110601,3122 21 5002 030,Gowtham K,S09,IT,gowtham2110601@ssn.edu.in,Male
+31,2110165,3122 21 5002 031,Hariharan S,S02,IT,hariharan2110165@ssn.edu.in,Male
+32,2110014,3122 21 5002 032,Harini M,S06,IT,harini2110014@ssn.edu.in,Female
+33,2110637,3122 21 5002 033,Harini V,S09,IT,harini2110637@ssn.edu.in,Female
+34,2110653,3122 21 5002 034,Harish K,S10,IT,harish2110653@ssn.edu.in,Male
+35,2110591,3122 21 5002 035,R M Harish,S05,IT,harish2110591@ssn.edu.in,Male
+36,2110303,3122 21 5002 036,Harsh Bansal,S03,IT,harsh2110303@ssn.edu.in,Male
+37,2110106,3122 21 5002 037,Harsha Nandhini K M,S06,IT,harshanandhini2110106@ssn.edu.in,Female
+38,2110770,3122 21 5002 038,Harshini D,S11,IT,harshini2110770@ssn.edu.in,Female
+39,2110682,3122 21 5002 039,Jai Narayanan,S05,IT,jai2110682@ssn.edu.in,Male
+40,2110648,3122 21 5002 040,Jaisshree,S05,IT,jaisshree2110648@ssn.edu.in,Female
+41,2110410,3122 21 5002 041,Jessica P,S03,IT,jessica2110410@ssn.edu.in,Female
+42,2110022,3122 21 5002 042,Jovitha Sahayaraj,S06,IT,jovitha2110022@ssn.edu.in,Female
