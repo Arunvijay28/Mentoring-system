@@ -10,10 +10,16 @@ should be able to see only their details, except for the confidential informatio
 mentor. A mentee should be able to request for a meeting with the mentor through this
 system. The manager should be able to generate various reports from these mentee records
 
+## Walkthorugh
+
+## Home Page
+<img src="/images/Screenshot 2023-12-14 203540.png" width=50%>
+
 ## Tools used
 1) Tkinter    - Creating GUI
 2) Python     - Implementing Data Structures Algorithms
 3) Matplotlib - Visualtion
+
 
 ## Algorithms used
 
