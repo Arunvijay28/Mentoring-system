@@ -12,7 +12,7 @@ system. The manager should be able to generate various reports from these mentee
 
 ## Walkthorugh
 
-## Home Page
+### Home Page
 <img src="/images/Screenshot 2023-12-14 203540.png" width=50%>
 
 ## Tools used
