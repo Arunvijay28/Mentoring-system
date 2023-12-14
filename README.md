@@ -28,7 +28,7 @@ system. The manager should be able to generate various reports from these mentee
 <img src="/images/Screenshot 2023-12-14 213838.png" width=50%>
 
 ### Login for Mentor
-<img>
+<img src="/images/Screenshot 2023-12-14 215832.png" width=50%>
 
 ### Mentees assigned to a Mentor
 <img src="/images/Screenshot 2023-12-14 214212.png" width=50%>
@@ -42,14 +42,14 @@ system. The manager should be able to generate various reports from these mentee
 ### Selecting date and sending mail 
 <img src="/images/Screenshot 2023-12-14 214353.png" width=50%>
 
-### Sample mail recieved
+### Sample mail recieved from Mentor
 <img src="/images/Screenshot 2023-12-14 215636.png" width=50%>
 
 ## Tools used
 1) Tkinter    - Creating GUI
 2) Python     - Implementing Data Structures Algorithms
 3) Matplotlib - Visualtion
-
+4) SMTP       - To send mail to Mentee by Mentor
 
 ## Algorithms used
 
