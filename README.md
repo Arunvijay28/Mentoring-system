@@ -53,19 +53,19 @@ system. The manager should be able to generate various reports from these mentee
 
 ## Algorithms used
 
-### AVL TREE
+### 1) AVL TREE
 
 As all the Mentees are assigned to a Mentor. if we use linked list searching for a Mentee by a Mentor takes O(n) time complexity.
 But by implementing AVL Tree the height of the tree is balanced so that searching takes O(log(n))
 
-### Linked List
+### 2) Linked List
 
 All the Mentor and reference of their Mentees are in a linked list . Whereas Mentees are stored as AVL Tree
 
-### Hash Table
+### 3) Hash Table
 To store the login credentials of Mentee,Mentor,Manager . The reason for choosing Hash Table rather than dictionary is because of the time complexity as the average time complexity of Hash Table is O(1)
 
-### Arrays
+### 4) Arrays
 1-Dimensional Array to store CAT-1 and CAT-2 marks of the students
 
 ## Visualization
