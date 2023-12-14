@@ -15,8 +15,36 @@ system. The manager should be able to generate various reports from these mentee
 ### Home Page
 <img src="/images/Screenshot 2023-12-14 203540.png" width=50%>
 
-### Login for Mentee
-<img src="" width=50%>
+### Login page for Mentee
+<img src="/images/Screenshot 2023-12-14 213713.png" width=50%>
+
+### Option for Mentee
+<img src="/images/Screenshot 2023-12-14 213747.png" width=50%>
+
+### Personal Details of Mentee
+<img src="/images/Screenshot 2023-12-14 213803.png" width=50%>
+
+### Mark details of Mentee
+<img src="/images/Screenshot 2023-12-14 213838.png" width=50%>
+
+### Login for Mentor
+<img>
+
+### Mentees assigned to a Mentor
+<img src="/images/Screenshot 2023-12-14 214212.png" width=50%>
+
+### Meeting with a Mentee
+<img src="/images/Screenshot 2023-12-14 214300.png" width=50%>
+
+### Select date and time for meeting
+<img src="/images/Screenshot 2023-12-14 214342.png" width=50%>
+
+### Selecting date and sending mail 
+<img src="/images/Screenshot 2023-12-14 214353.png" width=50%>
+
+### Sample mail recieved
+<img src="/images/Screenshot 2023-12-14 215636.png" width=50%>
+
 ## Tools used
 1) Tkinter    - Creating GUI
 2) Python     - Implementing Data Structures Algorithms
