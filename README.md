@@ -15,6 +15,7 @@ system. The manager should be able to generate various reports from these mentee
 ### Home Page
 <img src="/images/Screenshot 2023-12-14 203540.png" width=50%>
 
+### Mentee site
 ### Login page for Mentee
 <img src="/images/Screenshot 2023-12-14 213713.png" width=50%>
 
@@ -27,6 +28,7 @@ system. The manager should be able to generate various reports from these mentee
 ### Mark details of Mentee
 <img src="/images/Screenshot 2023-12-14 213838.png" width=50%>
 
+### Mentor site
 ### Login for Mentor
 <img src="/images/Screenshot 2023-12-14 215832.png" width=50%>
 
@@ -45,6 +47,8 @@ system. The manager should be able to generate various reports from these mentee
 ### Sample mail recieved from Mentor
 <img src="/images/Screenshot 2023-12-14 215636.png" width=50%>
 
+### Manager site
+### 
 ## Tools used
 1) Tkinter    - Creating GUI
 2) Python     - Implementing Data Structures Algorithms
