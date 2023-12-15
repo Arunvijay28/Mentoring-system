@@ -48,7 +48,12 @@ system. The manager should be able to generate various reports from these mentee
 <img src="/images/Screenshot 2023-12-14 215636.png" width=50%>
 
 ### Manager site
-### 
+### After Logged in
+<img src="/images/Screenshot 2023-12-15 073933.png" width=50%>
+
+### Reports of mark for BEEE subject
+<img src="/images/Screenshot 2023-12-15 073703.png" width=25%>  <img src="/images/Screenshot 2023-12-15 073721.png" width=25%>
+
 ## Tools used
 1) Tkinter    - Creating GUI
 2) Python     - Implementing Data Structures Algorithms
