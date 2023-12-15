@@ -99,5 +99,3 @@ By Clicking a particular Mentor, The Manager could able to see the mark details 
 ## Future Works
 To generate an online meeting using zoom api
 
-## Furture works
-To generate an online meeting using zoom api
