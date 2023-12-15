@@ -1,6 +1,14 @@
 # SSN-mentoring-system
 Creating an Mentoring system for an organization like SSN
 
+## Table of Contents
+[Description](#description)  
+[Walkthrough](#Walkthrough)  
+[Tools used](#Toolsused)  
+[Algorithms used](#Algorithmsused)  
+[Visualization](#Visualization)  
+[Future works](#futureworks)
+
 ## Description 
 An organization like SSN College of Engineering wants to develop a mentoring system. A
 mentor should be able to view all the mentees assigned to them. On selecting a mentee, the
@@ -10,7 +18,8 @@ should be able to see only their details, except for the confidential informatio
 mentor. A mentee should be able to request for a meeting with the mentor through this
 system. The manager should be able to generate various reports from these mentee records
 
-## Walkthorugh
+<a id="Walkthrough"></a>
+## Walkthrough
 
 ### Home Page
 <img src="/images/Screenshot 2023-12-14 203540.png" width=50%>
@@ -54,12 +63,14 @@ system. The manager should be able to generate various reports from these mentee
 ### Reports of mark for BEEE subject
 <img src="/images/Screenshot 2023-12-15 073703.png" width=25%>  <img src="/images/Screenshot 2023-12-15 073721.png" width=25%>
 
+<a id="Toolsused"></a>
 ## Tools used
 1) Tkinter    - Creating GUI
 2) Python     - Implementing Data Structures Algorithms
 3) Matplotlib - Visualtion
 4) SMTP       - To send mail to Mentee by Mentor
 
+<a id="Algorithmsused"></a>
 ## Algorithms used
 
 ### 1) AVL TREE
@@ -77,11 +88,16 @@ To store the login credentials of Mentee,Mentor,Manager . The reason for choosin
 ### 4) Arrays
 1-Dimensional Array to store CAT-1 and CAT-2 marks of the students
 
+<a id="Visualization"></a>
 ## Visualization
 
 ### Manager side
 To show the overall report to the manager we used Matplotlib for visualising the data which is stored in form of text file.
 By Clicking a particular Mentor, The Manager could able to see the mark details of the corresponding Mentees in form of pie chart and bar graph
+
+<a id="futureworks"></a>
+## Future Works
+To generate an online meeting using zoom api
 
 ## Furture works
 To generate an online meeting using zoom api
